@@ -18,12 +18,3 @@ This Python script validates Bulgarian Personal Identification Numbers (EGN) bas
 3. Enter a Bulgarian EGN when prompted.
 4. The script will print whether the EGN is valid or not.
 5. If valid, it will also display the date of birth, gender, and region of the individual.
-
-## Example
-
-```bash
-$ python egn_validation.py
-Проверка за валидност на ЕГН
-Моля въведете вашето ЕГН тук: 1234567890
-Дата на раждане: 12/06/1993. Пол: Мъж. Регион: Благоевград.
-ЕГН номер е валиден.
