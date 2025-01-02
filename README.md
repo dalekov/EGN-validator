@@ -1,7 +1,7 @@
 # EGN Validation Script
 
 ## Overview
-This Python script validates Bulgarian Personal Identification Numbers (EGN) based on the official rules. It checks if the EGN is correctly formatted, verifies the birth date, gender, and the region of birth based on the provided code. Additionally, it checks the validity of the control number, which is the last digit of the EGN.
+This Python script validates Bulgarian Personal Identification Numbers (EGN) based on the official rules. It checks if the EGN is correctly formatted, verifies the birth date, gender, and the region of birth based on the provided code.
 
 ## Features
 - **Date Validation**: Ensures the date of birth in the EGN is valid.
